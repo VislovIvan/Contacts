@@ -1,4 +1,4 @@
-# Test task Contacts App
+# Test task 65skillz
 
 - DetailView - экран просмотра информации о контакте
 - ContentView - основной экран
